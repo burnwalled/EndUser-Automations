@@ -7,7 +7,7 @@ Enjoy!
 
 
 
-# Request-a-team App Template
+# Important email to Teams chat
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-requestateam/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-requestateam/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-requestateam/wiki/Solution-Overview) |
-| ---- | ---- | ---- |
+| [Home](https://github.com/burnwalled/Important-email-to-Teams-chat/wiki/Home) | [Documentation](https://github.com/burnwalled/Important-email-to-Teams-chat/wiki/Documentation) | [Deployment](https://github.com/burnwalled/Important-email-to-Teams-chat/wiki/Deployment) | [Other](https://github.com/burnwalled/Important-email-to-Teams-chat/wiki/Deployment) |
+| ---- | ---- | ---- | ---- |

@@ -1,5 +1,5 @@
 # M365-EndUser-Automations
-| [Home](https://www.adoptcollaboration.com) | [Solution list](https://twitter.com/burnwalled) | [About me](https://www.linkedin.com/in/fredrikbrannvall/) | [Coligo AB](https://www.coligo.se/fredrik-brannvall/) |
+| [Home](https://www.adoptcollaboration.com) | [Solution list](https://twitter.com/burnwalled) | [About me](https://www.linkedin.com/in/fredrikbrannvall/) |
 | ---- | ---- | ---- | ---- |
 
 Welcome to my repository with a collection of my own developed solutions that can help end users automate tasks in the cloud.
@@ -7,10 +7,7 @@ Each solution is in their own repository. Each solution have direct links to eac
 
 Enjoy!
 
-If you want to follow me online see
-| [The Adopt Collaboration blog](https://www.adoptcollaboration.com) | [Twitter](https://twitter.com/burnwalled) | [LinkedIn](https://www.linkedin.com/in/fredrikbrannvall/) | [Coligo AB](https://www.coligo.se/fredrik-brannvall/) |
-| ---- | ---- | ---- | ---- |
-
+***
 
 # Important email to Teams chat
 

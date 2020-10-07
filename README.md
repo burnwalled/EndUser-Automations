@@ -3,6 +3,7 @@ Welcome to my repository with a collection of my own developed solutions that ca
 Each solution is in their own repository. Each solution have direct links to each repository.
 
 Enjoy!
+
 If you want to follow me online see
 | [The Adopt Collaboration blog](https://www.adoptcollaboration.com) | [Twitter](https://twitter.com/burnwalled) | [LinkedIn](https://www.linkedin.com/in/fredrikbrannvall/) | [Coligo AB](https://www.coligo.se/fredrik-brannvall/) |
 | ---- | ---- | ---- | ---- |

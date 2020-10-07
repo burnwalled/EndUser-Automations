@@ -1,11 +1,11 @@
 # M365-EndUser-Automations
-I will collect all my cloud automations for end users in this repository
+Welcome to my repository with a collection of my own developed solutions that can help end users automate tasks in the cloud.
+Each solution is in their own repository. Each solution have direct links to each repository.
+
+Enjoy!
 
 
 
-description: Power Apps solution that automates the team creation process based on core features and channel options
-urlFragment: microsoft-teams-apps-requestateam
----
 
 # Request-a-team App Template
 

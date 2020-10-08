@@ -1,5 +1,5 @@
 # M365-EndUser-Automations
-| [Home](https://www.adoptcollaboration.com) | [Solution list](https://github.com/burnwalled/M365-EndUser-Automations/wiki/Solution-list) | [About me](https://github.com/burnwalled/M365-EndUser-Automations/wiki/About-me) |
+| [Home](https://github.com/burnwalled/M365-EndUser-Automations) | [Solution list](https://github.com/burnwalled/M365-EndUser-Automations/wiki/Solution-list) | [About me](https://github.com/burnwalled/M365-EndUser-Automations/wiki/About-me) |
 | ---- | ---- | ---- |
 
 Welcome to my repository with a collection of my own developed solutions that can help end users automate tasks in the cloud.
